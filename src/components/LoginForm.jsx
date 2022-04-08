@@ -99,7 +99,7 @@ const Modal = () => {
             
 
                 <TextField
-                  label="Password"
+                  label="PassCode"
                   type="password"
                   autoComplete="current-password"
                   variant="outlined"
